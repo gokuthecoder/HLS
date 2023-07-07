@@ -18,7 +18,8 @@
 - https://github.com/googleapis/google-api-nodejs-client (Nodejs package)
 - https://cloud.google.com/iam/docs/service-accounts:
     + Each google account can create ~100 service accounts. Each service account is basically a google account.
-        * Pros:  
+        * Pros:   
+        sdjdj
             + No manual login required, private secret is generated once and can be used forever
             + 15gb of free storage per service account ( 15 * 100 = 1.5TB / google account )
         * Cons:
@@ -30,3 +31,6 @@
 
 # Upload/File management
 ![architecture](https://i.imgur.com/TJraFtH.jpg)
+
+
+
